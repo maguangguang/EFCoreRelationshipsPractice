@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreRelationshipsPractice", "EFCoreRelationshipsPractice\EFCoreRelationshipsPractice.csproj", "{616C3F94-7301-43DA-8C19-100933CA1562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreRelationshipsPracticeTest", "EFCoreRelationshipsPracticeTest\EFCoreRelationshipsPracticeTest.csproj", "{ECF3D46D-5F90-4018-908A-CF5FF23D5708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{616C3F94-7301-43DA-8C19-100933CA1562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616C3F94-7301-43DA-8C19-100933CA1562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616C3F94-7301-43DA-8C19-100933CA1562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616C3F94-7301-43DA-8C19-100933CA1562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF3D46D-5F90-4018-908A-CF5FF23D5708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF3D46D-5F90-4018-908A-CF5FF23D5708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF3D46D-5F90-4018-908A-CF5FF23D5708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF3D46D-5F90-4018-908A-CF5FF23D5708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
